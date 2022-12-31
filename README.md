@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c7c7c9d8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Laura+Santos;I'm+17+years+old;I'm+from+Brazil;I'm+Studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=laurasouls&show_icons=true&count_private=true&hide_border=true&title_color=e9e9ebd8&icon_color=e9e9ebd8&text_color=c9d1d9&bg_color=0f141b" alt="Laura Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurasouls&layout=compact&hide_border=true&title_color=e9e9ebd8&text_color=c9d1d9&bg_color=0f141b" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=laurasouls&show_icons=true&count_private=true&hide_border=true&title_color=f8f8f8f6&icon_color=f8f8f8f6&text_color=c7c7c9d8&bg_color=0f141b" alt="Laura Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurasouls&layout=compact&hide_border=true&title_color=e9e9ebd8&text_color=c7c7c9d8&bg_color=0f141b" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=laurasouls&bg_color=0f141b&color=c7c7c9d8&line=c4c5ca&point=e6e6eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
